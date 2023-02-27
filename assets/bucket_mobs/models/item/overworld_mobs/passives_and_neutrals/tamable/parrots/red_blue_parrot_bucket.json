@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bucket_mobs:item/red_blue_parrot_bucket"
+  }
+}

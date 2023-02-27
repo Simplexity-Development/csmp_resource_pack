@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 3331 }, "model": "csmp:item/basic_key" },
+    { "predicate": { "custom_model_data": 3332 }, "model": "csmp:item/advanced_key" }
+    ]
+}
